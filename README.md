@@ -1,1 +1,1 @@
-# lsn_basics_of_layout
+# skypro_bootstrap
